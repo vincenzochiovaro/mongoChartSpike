@@ -1,0 +1,17 @@
+.mongo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+#dashboard {
+    height: 90vh;
+    width: 90vh;
+    visibility: hidden;
+}
+
+#chart {
+    height: 90vh;
+    width: 90vh;
+    visibility: hidden;
+}
